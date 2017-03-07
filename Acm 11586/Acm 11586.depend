@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1390812836 source:e:\acm problems\acm 11586\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1435593001 source:e:\acm problems\acm 11586\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1390512139 source:e:\acm problems\acm 11900\main.cpp
+	<iostream>
+	<algorithm>
+

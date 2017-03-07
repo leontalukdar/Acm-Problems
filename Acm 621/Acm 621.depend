@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393868844 source:e:\acm problems\acm 621\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+

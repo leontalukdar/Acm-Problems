@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1458846332 source:e:\acm problems\acm 567\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdio>
+	<cstring>
+	<string>
+	<queue>
+	<iomanip>
+

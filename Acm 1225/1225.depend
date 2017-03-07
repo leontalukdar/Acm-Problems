@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1435057018 source:e:\acm problems\acm 1225\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstdio>
+	<sstream>
+

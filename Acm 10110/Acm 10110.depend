@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439110873 source:e:\acm problems\acm 10110\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+

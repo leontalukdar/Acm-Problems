@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1459071467 source:e:\acm problems\acm 544\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<math.h>
+

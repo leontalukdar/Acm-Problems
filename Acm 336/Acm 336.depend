@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1458840731 source:e:\acm problems\acm 336\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<queue>
+	<algorithm>
+	<cstdio>
+	<cstring>
+

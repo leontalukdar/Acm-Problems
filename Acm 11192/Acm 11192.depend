@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1389030067 source:e:\acm problems\acm 11192\main.c
+	<stdio.h>
+	<string.h>
+

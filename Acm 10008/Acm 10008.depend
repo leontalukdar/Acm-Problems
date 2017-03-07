@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1439369906 source:e:\acm problems\acm 10008\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+	<ctype.h>
+	<algorithm>
+
